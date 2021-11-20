@@ -69,7 +69,7 @@ Vince
 https://programmergau.github.io/COCOFAM/Vince
 
 Wilfredo
-https://programmergau.github.io/COCOFAM/Wilfedo
+https://programmergau.github.io/COCOFAM/Wilfredo
 
 Yuan
 https://programmergau.github.io/COCOFAM/Yuan
