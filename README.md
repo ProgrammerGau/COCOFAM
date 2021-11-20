@@ -39,7 +39,7 @@ Hernandez
 https://programmergau.github.io/COCOFAM/Hernandez
 
 Irish
-https://programmergau.github.io/COCOFAM/
+https://programmergau.github.io/COCOFAM/Irish
 
 Jhoana
 https://programmergau.github.io/COCOFAM/Jhoana
