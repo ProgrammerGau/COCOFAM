@@ -75,5 +75,5 @@ https://programmergau.github.io/COCOFAM/Yuan
 Zane
 https://programmergau.github.io/COCOFAM/Zane
 
-#NOTES:
+#NOTES
 May kulang pa wala kasi kaming pic kaya may kulang sensiya na :( 
